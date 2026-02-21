@@ -1,5 +1,19 @@
 # 💫 About Me:
-I am a Pre-final Year B.Tech CSE student at Rajarambapu Institute of Technology, currently serving as a Top 5 HackerRank Campus Ambassador (2025–26) and a Placement Coordination Member at the RISE & Recruit Club.<br><br>As a Top 5 HackerRank Campus Ambassador, I represent the student developer community by promoting coding culture, organizing coding challenges, and helping peers enhance their programming skills. My role at RISE & Recruit Club allows me to collaborate with peers and faculty to strengthen the placement ecosystem.<br><br>I have contributed to **open-source projects** through **Social Winter of Code** and **Elite Coders Winter of Code**, gaining experience in real-world development, teamwork, and version control.<br><br>I am passionate about software development, currently building **backend projects using Java and Spring Boot**, and **learning DSA and algorithms** through LeetCode and HackerRank. My goal is to contribute to impactful projects in product and fintech domains.<br><br>Outside academics, I enjoy networking, exploring new ideas, and taking initiatives that nurture leadership and communication skills.<br>
+I am a Pre-final Year B.Tech CSE student at Rajarambapu Institute of Technology, currently serving as a <b>Top 5 HackerRank Campus Ambassador (2025–26)</b> and a Placement Coordination Member at the RISE & Recruit Club.<br><br>
+Recently, I was invited to the HackerRank Office, Bangalore as one of the <b>Top 5 Campus Ambassadors across India</b> for their Product Launch Event, with flights and accommodation sponsored by HackerRank — recognizing my active contribution to promoting coding culture and developer engagement on campus.<br><br>
+As a Campus Ambassador at HackerRank, I actively represent the student developer community by:<br><br>
+• Organizing large-scale coding contests and hackathons<br>
+• Promoting competitive programming culture<br>
+• Mentoring peers in DSA and problem-solving<br>
+• Driving technical engagement across campus<br><br>
+I have successfully organized multiple coding events including <b>CodeNova, CodePulse, and CodeClash</b>, achieving:<br><br>
+• 700+ registrations with 590+ active coders<br>
+• 590+ registrations with 486+ verified code submissions<br>
+This experience strengthened my leadership, event management, and community-building skills at scale.<br><br>
+I have also contributed to open-source programs like <b>Social Winter of Code</b> and <b>Elite Coders Winter of Code</b>, gaining hands-on experience in real-world development, Git workflows, and collaborative coding.<br><br>
+Technically, I am focused on <b>Backend Development using Java and Spring Boot</b>, while consistently strengthening my <b>Data Structures & Algorithms</b> through LeetCode and HackerRank.<br><br>
+Currently, I am building scalable backend projects (like Smart Complaint Tracker) and aiming to contribute to impactful product-based and fintech systems.<br><br>
+Beyond academics, I enjoy networking, leading technical initiatives, and creating opportunities that help students grow in coding, placements, and software development.
 
 
 ## 🌐 Socials:
