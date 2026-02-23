@@ -12,7 +12,7 @@ I have successfully organized multiple coding events including <b>CodeNova, Code
 This experience strengthened my leadership, event management, and community-building skills at scale.<br><br>
 I have also contributed to open-source programs like <b>Social Winter of Code</b> and <b>Elite Coders Winter of Code</b>, gaining hands-on experience in real-world development, Git workflows, and collaborative coding.<br><br>
 Technically, I am focused on <b>Backend Development using Java and Spring Boot</b>, while consistently strengthening my <b>Data Structures & Algorithms</b> through LeetCode and HackerRank.<br><br>
-Currently, I am building scalable backend projects (like Smart Complaint Tracker) and aiming to contribute to impactful product-based and fintech systems.<br><br>
+Currently, I am building scalable backend projects and aiming to contribute to impactful product-based and fintech systems.<br><br>
 Beyond academics, I enjoy networking, leading technical initiatives, and creating opportunities that help students grow in coding, placements, and software development.
 
 
