@@ -1,4 +1,4 @@
-# 💫 About Me:--
+# 💫 About Me:---
 
 I am a Pre-final Year B.Tech CSE student at Rajarambapu Institute of Technology, currently serving as a <b>Top 5 HackerRank Campus Ambassador (2025–26)</b> and a Placement Coordination Member at the RISE & Recruit Club.<br><br>
 Recently, I was invited to the HackerRank Office, Bangalore as one of the <b>Top 5 Campus Ambassadors across India</b> for their Product Launch Event, with flights and accommodation sponsored by HackerRank — recognizing my active contribution to promoting coding culture and developer engagement on campus.<br><br>
