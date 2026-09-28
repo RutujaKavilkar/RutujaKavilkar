@@ -11,7 +11,7 @@ Aspiring Software Development Engineer (SDE) from India, focused on building sca
 - ✈️ Invited to the **HackerRank Bengaluru Office** as a **Top Campus Ambassador (Rank 1)** with a **fully sponsored trip**, where I interacted with the **CEO, CTO, and engineering teams**, gaining insights into their **AI-powered interview platform** and **real-world hiring systems**
 - 🏆 **1st Place – Inter-College Hackathon (RIT Hackathon 2K26)**  
 - 💻 Solving **Data Structures & Algorithms (180+ problems solved)**
-- 
+- -
   ## 💼 What I’m Working On
   
 - 🔭 Building a **Microservices-based Order Management System** using Spring Boot, Eureka, API Gateway, and Feign for scalable service communication  
