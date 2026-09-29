@@ -18,7 +18,7 @@ Aspiring Software Development Engineer (SDE) from India, focused on building sca
 - 🤝 Open to collaborating on **secure backend systems**, currently exploring **Spring Security & JWT-based authentication** 
 - 📫 Reach me at: **rutuja.b.kavilkar@gmail.com**
 
-----
+---
 
 ## 🌐 Connect with me
 <p align="left">
