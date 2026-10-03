@@ -4,7 +4,7 @@
 Aspiring Software Development Engineer (SDE) from India, focused on building scalable backend systems with Java & Spring Boot and solving complex problems consistently
 </h3>
 
-----
+---
 
 ## 🚀 About Me
 - 🥇 **Top HackerRank Campus Ambassador (2026)**
